@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "FavoriteList.WebAPI.Controllers.FavListController",
+    "Method": "Create",
+    "RelativePath": "api/FavList/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "star",
+        "Type": "System.Byte",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FavoriteList.WebAPI.Controllers.FavListController",
+    "Method": "GetAll",
+    "RelativePath": "api/FavList/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

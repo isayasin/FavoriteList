@@ -1,0 +1,8 @@
+###
+GET http://localhost:5285/api/FavList/GetAll
+
+###
+POST http://localhost:5285/api/FavList/Create?contentType=Oyun&name=Dragon_Nest&star=5
+
+###
+put http://localhost:5285/api/FavList/DeleteById?id=232-36c7caee8272

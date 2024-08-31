@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|c:\\yb\\yb1\\projeler\\kisisel\\favoritelist.webapi\\services\\favlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|solutionrelative:services\\favlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|c:\\yb\\yb1\\projeler\\kisisel\\favoritelist.webapi\\controllers\\favlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|solutionrelative:controllers\\favlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|c:\\yb\\yb1\\projeler\\kisisel\\favoritelist.webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|solutionrelative:webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|c:\\yb\\yb1\\projeler\\kisisel\\favoritelist.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C536DC1-CD84-43C9-8F89-3A71AC960D36}|FavoriteList.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavListService.cs",
+              "DocumentMoniker": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\Services\\FavListService.cs",
+              "RelativeDocumentMoniker": "Services\\FavListService.cs",
+              "ToolTip": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\Services\\FavListService.cs*",
+              "RelativeToolTip": "Services\\FavListService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:16:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI.http",
+              "ToolTip": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T16:42:20.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavListController.cs",
+              "DocumentMoniker": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\Controllers\\FavListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavListController.cs",
+              "ToolTip": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\Controllers\\FavListController.cs",
+              "RelativeToolTip": "Controllers\\FavListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:32:28.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\YB\\YB1\\Projeler\\Kisisel\\FavoriteList.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:37:17.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

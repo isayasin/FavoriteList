@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tyI6Ve1AB9sveeTm8OhXQGtZjT2xp1QO62q0ddO+d3c=",
+  "Source": "FavoriteList.WebAPI",
+  "BasePath": "_content/FavoriteList.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
